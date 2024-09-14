@@ -11,7 +11,12 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infrastructure", "Infrastru
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Application", "Application\Application.csproj", "{795D861B-0670-4411-ABEF-99012B0F5001}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "organizationEmployeesAPI.Tests", "organizationEmployeesAPI.Tests\organizationEmployeesAPI.Tests.csproj", "{8A185644-86C1-4626-9887-36B4B90554BA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "organizationEmployeesAPI.Tests", "organizationEmployeesAPI.Tests\organizationEmployeesAPI.Tests.csproj", "{8A185644-86C1-4626-9887-36B4B90554BA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D1A3B560-DE86-42DF-B139-FBE21075615D}"
+	ProjectSection(SolutionItems) = preProject
+		top_3_employees_per_department.sql = top_3_employees_per_department.sql
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
