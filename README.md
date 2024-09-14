@@ -87,7 +87,3 @@ The API implements proper error handling, including cases where an employee is n
 6. The API will be available at `https://localhost:5001` or `http://localhost:5000`.
 
 7. You can use Swagger UI to test the API endpoints by navigating to `https://localhost:5001/swagger` in your browser.
-
-Note: The Part 2 of the task (PostgreSQL Query) is not included in this implementation.
-
-For any questions or issues, please contact the development team.
